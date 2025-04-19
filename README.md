@@ -1,8 +1,8 @@
 ## Programando em Python com exercícios práticos dos manuais:
+
  "Curso Intensivo de Python" de Eric Matthes.
 <br>
-___________________________________________________________________________
-   Dominando Python: 100+ Exercícios Resolvidos e Comentados pra acelerar seu aprendizado" de Ruhan Avila Conceição
+ "Dominando Python: 100+ Exercícios Resolvidos e Comentados pra acelerar seu aprendizado" de Ruhan Avila Conceição
 
 -  O desafio foi iniciado em 14/04/20254 e será concluído em 23/07/2025.
 
