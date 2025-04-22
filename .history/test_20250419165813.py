@@ -14,10 +14,11 @@ def is_leap(year):
     else:
         leap = False
     return leap
+year = 2000
 
 year = int(input("Enter a year: "))
 
-print(is_leap(year))
+print(year)
 
 # Division in Python ever prints a float, even if the result is an integer.
 x = 5/5
