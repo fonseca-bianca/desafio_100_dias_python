@@ -1,7 +1,3 @@
-# As funções de Remoção são usadas pra remover espaços em branco digitados
-# pelo usuário num input pra que NÃO sejam armazenados no sistema, como, 
-# por exemplo, o nome de um usuário ou uma senha.
-
 favorite_language = "Python "
 print(favorite_language)
 
